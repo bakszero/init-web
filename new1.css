@@ -1,0 +1,208 @@
+body{
+	
+	font-family: Candara,Verdana, Sans-serif, Helvetica;
+	font-size: 15px;;
+	color: #666666;
+	background: #ffffff;
+	margin: 0;
+	padding:0;
+	
+}
+
+#content p{
+	font: Candara;
+	margin: 0;
+	padding:0;
+	padding-bottom: 25px;
+}
+
+#content h2{
+	font: Verdana;
+	margin:0;
+	paddding: 0;
+	padding-bottom: 0px;
+}
+
+#sidebar-a h3{
+	font: Verdana;
+	margin:0;
+	padding:0px;
+	padding-bottom:20px;
+}
+
+#sidebar-a p{
+	font: Candara;
+	margin:0;
+	padding: 0px;
+	font-size: 14px;
+	padding-bottom:20px;
+}
+
+.hidden{
+	display : none;
+
+}
+p{
+	margin:0;
+	padding:0;
+}
+
+h1{
+   margin: 0;
+   padding: 0;
+}
+
+#page-container{
+	width: 800px;
+	margin: auto;
+	
+	
+}
+
+#main-nav{
+	
+	height:80px;
+	
+}
+
+#header{
+	font: Consolas;
+	color : dusk;
+	text-align: center;
+	height: 150px;
+	background-image: url("everest1.jpg");
+	
+	}
+
+
+#content{
+		
+				
+	margin-right: 280px;
+	
+}
+#sidebar-a{
+	padding-top: 20px;
+	background-color: ;
+	float : right;
+	width: 280px;
+
+}
+
+#footer{
+	
+	margin: 5 px;
+	clear: both;
+	border-top: 1px solid gray;
+	font-family: Calibri;
+	color: #5f6623;
+}
+
+
+#content .padding{
+	padding: 10px;
+	
+} 
+
+#sidebar-a .paddding{
+	
+	padding: 10px;
+}
+
+
+#main-nav ul{
+	list-style-type: none;
+	margin:0;
+	padding: 0;
+	
+}
+
+#main-nav li{
+		display: inline-block;
+}
+
+#main-nav a:link, a:visited{
+	display: block;
+	width: 197.57px;
+	
+	color: #FFFFFF;
+	background-color: #00e56d;
+	text-align: center;
+	paddding: 4px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+#main-nav a:hover, a:active{
+	background-color: black;
+}
+
+#footer #alte{
+	width: 350px;
+	float: right;
+	text-align:right;
+}
+
+ .f{
+	height : 40px;
+	width: 40px;
+	
+}
+
+
+#content #b{
+	width: 100px;
+	height: 100px;
+	float: left;
+	padding-right: 6px;
+	
+	}
+#image{
+	margin:0;
+	padding: 0;
+	height: 190px;
+	margin-top: 48px;
+}
+
+#image #everest{
+	width :800px;
+	height: 190px;
+	margin: 0;
+	paddding:0;
+	}
+
+#navigation {
+position: fixed;
+top: 0;
+width: 100%;
+color: #ffffff;
+height: 35px;
+text-align: center;
+padding-top: 15px;
+/* Adds shadow to the bottom of the bar */
+-webkit-box-shadow: 0px 0px 8px 0px #000000;
+-moz-box-shadow: 0px 0px 8px 0px #000000;
+box-shadow: 0px 0px 8px 0px #000000;
+/* Adds the transparent background */
+background-color: rgba(1, 1, 1, 0.95);
+color: rgba(1, 1, 1, 0.8);
+}
+#navigation a {
+font-size: 14px;
+padding-left: 15px;
+padding-right: 15px;
+color: white;
+text-decoration: none;
+}
+
+#navigation a:hover {
+color: grey;
+} 
+
+
+
+
+
+
+
+
